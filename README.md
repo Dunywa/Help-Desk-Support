@@ -1,9 +1,9 @@
 # Help-Desk-Support
-<h1>Nessus Essentials Vulnerability Management Lab</h1>
+# Nessus Essentials Vulnerability Management Lab
 
-<h2>Description</h2>
+## Description
 This is a walkthrough of how I created A Virtual Machine environment using VMWare running Windows 10. I did this project to gain experience with Nessus Essentials and learn how to scan for vulnerabilities and remediate them. This project will showcase two of the main steps in the Vulnerability Management Lifecycle. I will be using Nessus Essentials to scan local VMs hosted on VMWare Workstation in order run credentialed scans to discover vulnerabilities, remediate some of the vulnerabilities, then perform a rescan to verify remediation.
-<br />
+
 
 <h2>Utilities Used</h2>
 
@@ -15,7 +15,7 @@ This is a walkthrough of how I created A Virtual Machine environment using VMWar
 - <b>VMWare</b>
 - <b>Windows 10</b> (21H2)
 
-<h2>Links</h2>
+## Links
 
 - <b>VMWare Workstation Pro:</b> https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
 - <b>Nessus Essentials:</b> https://www.tenable.com/products/nessus/nessus-essentials
